@@ -1,0 +1,65 @@
+bot-feature: New bot commands or features
+color: #1f6feb
+---
+channel-management: Channel creation, organization, or modifications
+color: #0366d6
+---
+roles-permissions: Role setup, permissions, or access control
+color: #5319e7
+---
+categories: Server categories organization
+color: #7057ff
+---
+moderation: Moderation tools, rules, or enforcement
+color: #d73a49
+---
+community-event: Community events, contests, or activities
+color: #28a745
+---
+wishes: Community feature requests and wishes
+color: #6f42c1
+---
+documentation: Wiki, guides, or documentation needs
+color: #0075ca
+---
+bug: Something isn't working
+color: #fc2929
+---
+enhancement: Improvement to existing feature
+color: #a2eeef
+---
+question: Further information is requested
+color: #d876e3
+---
+user-experience: UX improvements for the server
+color: #fbca04
+---
+dashboard: Server dashboard or management interface
+color: #cccccc
+---
+welcome-system: Welcome messages or onboarding
+color: #ffd700
+---
+birthday-celebration: Birthday announcements and celebrations
+color: #ff69b4
+---
+music-voice: Voice channels or music features
+color: #1e90ff
+---
+statistics-analytics: Server statistics and analytics
+color: #4169e1
+---
+automod: Automatic moderation features
+color: #ff6347
+---
+suggestions: General suggestions
+color: #9370db
+---
+priority-high: High priority issue
+color: #ff0000
+---
+priority-medium: Medium priority issue
+color: #ffaa00
+---
+priority-low: Low priority issue
+color: #cccccc
